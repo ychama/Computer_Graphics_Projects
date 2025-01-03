@@ -3,7 +3,7 @@
 This is a solar system simulation of the orbits of the earth and moon. Some values were exaggerated for visibility purposes. The Phong Reflection Model was used to light up the celestial bodies in the scene.
 
 ## Demo
-<img src="./media/demo.gif" width="300"/>
+<img src="./media/demo-1.gif" width="300"/>
 
 ## Close up
 <img src="./media/close-up.gif" width="300"/>
