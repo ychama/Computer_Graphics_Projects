@@ -18,15 +18,18 @@ Pre-defined Tensor Product Surfaces can also be visualized in this program.
 <img src="./media/view-curve.gif" width="300"/>
 
 - Pressing `0` will allow you to toggle between the 2D and 3D scene.
+
 The controls for the camera in 3D are as follows:
-	"W": allows you to move forward 
-	"S": allows you to move backward
-	"A": allows you to move left
-	"D": allows you to move right
 
-	Moving your mouse around will allow you to change what the camera is looking at.
+- **"W"**: allows you to move forward  
+- **"S"**: allows you to move backward  
+- **"A"**: allows you to move left  
+- **"D"**: allows you to move right  
 
-    Press `1` or `2` to toggle between a Bezier and B-spline curve respectively
+Moving your mouse around will allow you to change what the camera is looking at.
+
+Press `1` or `2` to toggle between a Bezier and B-spline curve respectively.
+
 
 ## 3D Curve Surface of Revolution
 <img src="./media/surface-of-revolution.gif" width="300"/>
