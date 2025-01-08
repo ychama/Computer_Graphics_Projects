@@ -4,9 +4,9 @@ This is a collection of Computer Graphic Projects I've completed. OpenGL and C++
 
 
 1. [Solar System Simulation](Solar%20System%20Simulation/README.md)
-1. [Interactive Curve Editor](curve-editor/README.md)
-1. [Spaceship Game](spaceship-game/README.md)
-1. [Fractal Generator](fractal-generator/README.md)
+1. [Interactive Curve Editor](Curve_Editor/README.md)
+1. [Spaceship Game](Spaceship_Game/README.md)
+1. [Fractal Generator](Fractal-Generator/README.md)
 
 ## Platform and Compiler
 
